@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "0e96045c86477563",
+    "type": "split",
+    "children": [
+      {
+        "id": "868bb343ea8f10a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32e171519f8b17e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "die Speise.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "die Speise"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aadf8cbed3dc0510",
+    "type": "split",
+    "children": [
+      {
+        "id": "831948cbb0da0893",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "625b194828898346",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b0772783f68ee044",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#nomen",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c80d5d993e114bf5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "ed4564e2f7e0df0a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 297.5
+  },
+  "right": {
+    "id": "962833e17259279c",
+    "type": "split",
+    "children": [
+      {
+        "id": "734f42ab9b2d5dfe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f5c183671ef264e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "die Speise.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for die Speise"
+            }
+          },
+          {
+            "id": "32f61b5e7312c0f8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "die Speise.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from die Speise"
+            }
+          },
+          {
+            "id": "3ffa4bb1569aa90e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "05bd337ccd1df61d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "die Speise.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of die Speise"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "32e171519f8b17e0",
+  "lastOpenFiles": [
+    "das Gericht.md",
+    "die Speise.md",
+    "der Appetit.md",
+    "der Morgen.md",
+    "Wörter/wochentags.md",
+    "Wörter/werktags.md",
+    "Wörter/täglich.md",
+    "Wörter/morgens.md",
+    "Wörter/mittags.md",
+    "Wörter/die Woche.md",
+    "Wörter/die Tasse.md",
+    "Wörter/die Schüssel.md",
+    "Wörter/die Pfanne.md",
+    "Wörter/die Kanne.md",
+    "Wörter/die Gabel.md",
+    "Wörter/die Bewegung.md",
+    "Wörter/der Wasserkocher.md",
+    "Wörter/der Topf.md",
+    "Wörter/der Teller.md",
+    "Wörter/der Tag.md",
+    "Wörter/der Schlüssel.md",
+    "Wörter/der Löffel.md",
+    "Wörter/der Becher.md",
+    "Wörter/das Messer.md",
+    "Wörter/das Glas.md",
+    "der Schl.md",
+    "Wörter",
+    "__templates__"
+  ]
+}

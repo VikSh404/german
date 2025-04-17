@@ -1,0 +1,109 @@
+{
+  "items": [
+    {
+      "type": "graph",
+      "ctime": 1744880620032,
+      "title": "Wörte Graph",
+      "options": {
+        "collapse-filter": false,
+        "search": "path:Wörte  ",
+        "showTags": false,
+        "showAttachments": false,
+        "hideUnresolved": false,
+        "showOrphans": true,
+        "collapse-color-groups": false,
+        "colorGroups": [
+          {
+            "query": "tag:#reg",
+            "color": {
+              "a": 1,
+              "rgb": 5431394
+            }
+          },
+          {
+            "query": "tag:#unreg",
+            "color": {
+              "a": 1,
+              "rgb": 14701138
+            }
+          }
+        ],
+        "collapse-display": true,
+        "showArrow": false,
+        "textFadeMultiplier": 0,
+        "nodeSizeMultiplier": 1,
+        "lineSizeMultiplier": 1,
+        "collapse-forces": true,
+        "centerStrength": 0.518713248970312,
+        "repelStrength": 10,
+        "linkStrength": 1,
+        "linkDistance": 250,
+        "scale": 1,
+        "close": false
+      }
+    },
+    {
+      "type": "graph",
+      "ctime": 1744890166340,
+      "title": "Regex filter without __",
+      "options": {
+        "collapse-filter": false,
+        "search": "file:/^[^_]/",
+        "showTags": false,
+        "showAttachments": false,
+        "hideUnresolved": false,
+        "showOrphans": true,
+        "collapse-color-groups": false,
+        "colorGroups": [
+          {
+            "query": "tag:#reg",
+            "color": {
+              "a": 1,
+              "rgb": 15788037
+            }
+          },
+          {
+            "query": "tag:#unreg",
+            "color": {
+              "a": 1,
+              "rgb": 12740352
+            }
+          },
+          {
+            "query": "file:\"die \"",
+            "color": {
+              "a": 1,
+              "rgb": 13834007
+            }
+          },
+          {
+            "query": "file:\"das \"",
+            "color": {
+              "a": 1,
+              "rgb": 3262769
+            }
+          },
+          {
+            "query": "file:\"der \"",
+            "color": {
+              "a": 1,
+              "rgb": 591584
+            }
+          }
+        ],
+        "collapse-display": false,
+        "showArrow": false,
+        "textFadeMultiplier": 0,
+        "nodeSizeMultiplier": 1,
+        "lineSizeMultiplier": 1,
+        "collapse-forces": true,
+        "centerStrength": 0.518713248970312,
+        "repelStrength": 10,
+        "linkStrength": 1,
+        "linkDistance": 250,
+        "scale": 1,
+        "close": false
+      }
+    }
+  ]
+}
