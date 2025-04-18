@@ -3,7 +3,8 @@ kein Plural
 # Synonyme
 
 # Verbindung 
-
+[[die Speise]]
+[[das Gericht]]
 # Beispiele
 - **Ich habe heute keinen Appetit.**  
     (У меня сегодня нет аппетита.)

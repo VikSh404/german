@@ -2,8 +2,7 @@
 # Synonyme
 
 # Verbindung 
-[[nie]]
-[[fast]]
+
 # Beispiele
 🔹 **Ich esse fast nie Fleisch.**  
 (Я почти никогда не ем мясо.)

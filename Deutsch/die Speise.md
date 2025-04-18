@@ -3,7 +3,9 @@ die Speisen
 # Synonyme
 
 # Verbindung 
-[[]]
+[[das Gericht]]
+[[die Speise]]
+[[die Küche]]
 # Beispiele
 - **Die Speisen sind sehr lecker.**  
     (Блюда очень вкусные.)

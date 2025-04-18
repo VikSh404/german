@@ -2,14 +2,7 @@
 # Synonyme
 
 # Verbindung 
-[[fast immer]]
-[[fast]]
-[[selten]]
-[[manchmal]]
-[[fast nie]]
-[[immer]]
-[[nie]]
-[[oft]]
+
 # Beispiele
 🔹 **Ich bin fast immer pünktlich.**  
 (Я почти всегда прихожу вовремя.)

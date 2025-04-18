@@ -2,14 +2,7 @@
 # Synonyme
 
 # Verbindung 
-[[fast immer]]
-[[fast]]
-[[selten]]
-[[manchmal]]
-[[fast nie]]
-[[immer]]
-[[nie]]
-[[oft]]
+
 # Beispiele
 🔹 **Ich gehe selten ins Kino.**  
 (Я редко хожу в кино.)

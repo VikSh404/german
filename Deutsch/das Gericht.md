@@ -5,6 +5,8 @@ die Gerichte
 # Verbindung 
 [[das Gericht]]
 [[der Appetit]]
+[[die Küche]]
+
 
 # Beispiele
 - **Mein Lieblingsgericht ist Spaghetti.**  
