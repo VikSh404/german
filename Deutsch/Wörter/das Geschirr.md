@@ -5,6 +5,7 @@
 [[der Becher]]
 [[die Tasse]]
 [[das Glas]]
+[[die Küche]]
 # Beispiele
 🔹 **Das Geschirr ist schmutzig.**  
 (Посуда грязная.)

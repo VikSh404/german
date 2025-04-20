@@ -1,4 +1,7 @@
+
 #nomen
+- 📍 Дата: {{date}}
+- ⏰ Время создания: {{time}}
 # Synonyme
 
 # Verbindung 

@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "file:/^[^_]/",
+  "search": "path:Wörter  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -11,28 +11,28 @@
       "query": "tag:#reg",
       "color": {
         "a": 1,
-        "rgb": 15788037
+        "rgb": 6601285
       }
     },
     {
       "query": "tag:#unreg",
       "color": {
         "a": 1,
-        "rgb": 12740352
+        "rgb": 14966366
       }
     },
     {
       "query": "file:\"die \"",
       "color": {
         "a": 1,
-        "rgb": 13834007
+        "rgb": 9571340
       }
     },
     {
       "query": "file:\"das \"",
       "color": {
         "a": 1,
-        "rgb": 3262769
+        "rgb": 483079
       }
     },
     {
@@ -45,14 +45,14 @@
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -1,
-  "nodeSizeMultiplier": 0.584895833333333,
-  "lineSizeMultiplier": 0.916666666666667,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 0.7890625,
+  "lineSizeMultiplier": 0.686979166666667,
+  "collapse-forces": false,
+  "centerStrength": 0.354166666666667,
+  "repelStrength": 8.95833333333333,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.751434232227764,
+  "linkDistance": 189,
+  "scale": 0.19450022690616067,
   "close": false
 }

@@ -5,7 +5,7 @@
 # Verbindung 
 [[verdienen]]
 [[das Geld]]
-
+[[der Bus]]
 # Beispiele
 #### ✅ Präsens:
 

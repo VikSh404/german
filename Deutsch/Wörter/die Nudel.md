@@ -3,7 +3,7 @@ die Nudeln
 # Synonyme
 
 # Verbindung 
-
+[[das Essen]]
 # Beispiele
 - **Ich koche heute Nudeln mit Tomatensauce.**  
     (Сегодня я готовлю макароны с томатным соусом.)
