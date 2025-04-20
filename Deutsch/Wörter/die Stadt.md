@@ -4,7 +4,7 @@ die Städte
 
 # Verbindung 
 [[die Wohnung]]
-[[der Mensch]]
+[[die Straße]]
 # Beispiele
 🔹 **Ich wohne in der Stadt.**  
 (Я живу в городе.)
