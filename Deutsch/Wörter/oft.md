@@ -2,7 +2,7 @@
 # Synonyme
 
 # Verbindung 
-
+[[immer]]
 # Beispiele
 🔹 **Ich gehe oft spazieren.**  
 (Я часто гуляю.)

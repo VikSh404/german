@@ -13,6 +13,8 @@
 | **übermorgen** | послезавтра |
 |                |             |
 [[gestern]]
+[[morgen]]
+[[die Zeit]]
 # Beispiele
 🔹 **Heute ist Montag.**  
 (Сегодня понедельник.)

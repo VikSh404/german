@@ -4,8 +4,6 @@ die Zeiten
 # Synonyme
 
 # Verbindung 
-[[gestern]]
-[[morgen]]
 [[heute]]
 [[das Geld]]
 

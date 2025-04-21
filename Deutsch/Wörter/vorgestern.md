@@ -13,9 +13,7 @@
 | **übermorgen** | послезавтра |
 |                |             |
 [[gestern]]
-[[heute]]
-[[die Zeit]]
-[[übermorgen]]
+
 # Beispiele
 🔹 **Ich habe ihn vorgestern getroffen.**  
 (Я встретил его **позавчера**.)

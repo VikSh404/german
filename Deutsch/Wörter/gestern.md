@@ -13,6 +13,7 @@
 |**übermorgen**|послезавтра|
 [[heute]]
 [[morgen]]
+[[vorgestern]]
 
 # Beispiele
 🔹 **Gestern war Montag.**  

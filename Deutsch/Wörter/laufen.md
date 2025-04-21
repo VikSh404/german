@@ -1,4 +1,4 @@
-| lief, ist gelaufen |
+lief, ist gelaufen
 du - läufst
 sie - läuft
 

@@ -8,7 +8,6 @@
 [[fast]]
 [[selten]]
 [[manchmal]]
-[[fast nie]]
 [[immer]]
 [[nie]]
 [[oft]]

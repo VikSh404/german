@@ -44,6 +44,69 @@
     },
     {
       "type": "graph",
+      "ctime": 1745185157413,
+      "title": "Wörter",
+      "options": {
+        "collapse-filter": false,
+        "search": "path:Wörter  ",
+        "showTags": false,
+        "showAttachments": false,
+        "hideUnresolved": false,
+        "showOrphans": true,
+        "collapse-color-groups": false,
+        "colorGroups": [
+          {
+            "query": "tag:#reg",
+            "color": {
+              "a": 1,
+              "rgb": 6601285
+            }
+          },
+          {
+            "query": "tag:#unreg",
+            "color": {
+              "a": 1,
+              "rgb": 14966366
+            }
+          },
+          {
+            "query": "file:\"die \"",
+            "color": {
+              "a": 1,
+              "rgb": 9571340
+            }
+          },
+          {
+            "query": "file:\"das \"",
+            "color": {
+              "a": 1,
+              "rgb": 483079
+            }
+          },
+          {
+            "query": "file:\"der \"",
+            "color": {
+              "a": 1,
+              "rgb": 591584
+            }
+          }
+        ],
+        "collapse-display": false,
+        "showArrow": false,
+        "textFadeMultiplier": -3,
+        "nodeSizeMultiplier": 0.7890625,
+        "lineSizeMultiplier": 0.686979166666667,
+        "collapse-forces": false,
+        "centerStrength": 0.354166666666667,
+        "repelStrength": 8.95833333333333,
+        "linkStrength": 1,
+        "linkDistance": 189,
+        "scale": 0.19450022690616067,
+        "close": false
+      }
+    },
+    {
+      "type": "graph",
       "ctime": 1744890166340,
       "title": "Regex filter without __",
       "options": {
@@ -107,11 +170,11 @@
     },
     {
       "type": "graph",
-      "ctime": 1745185157413,
-      "title": "Wörter",
+      "ctime": 1745223426844,
+      "title": "Unreg Verben",
       "options": {
         "collapse-filter": false,
-        "search": "path:Wörter  ",
+        "search": "path:Wörter  tag:#unreg  ",
         "showTags": false,
         "showAttachments": false,
         "hideUnresolved": false,
@@ -164,7 +227,196 @@
         "repelStrength": 8.95833333333333,
         "linkStrength": 1,
         "linkDistance": 189,
-        "scale": 0.19450022690616067,
+        "scale": 2.5360905337686996,
+        "close": false
+      }
+    },
+    {
+      "type": "graph",
+      "ctime": 1745223474180,
+      "title": "die",
+      "options": {
+        "collapse-filter": false,
+        "search": "path:Wörter  file:\"die \"",
+        "showTags": false,
+        "showAttachments": false,
+        "hideUnresolved": false,
+        "showOrphans": true,
+        "collapse-color-groups": false,
+        "colorGroups": [
+          {
+            "query": "tag:#reg",
+            "color": {
+              "a": 1,
+              "rgb": 6601285
+            }
+          },
+          {
+            "query": "tag:#unreg",
+            "color": {
+              "a": 1,
+              "rgb": 14966366
+            }
+          },
+          {
+            "query": "file:\"die \"",
+            "color": {
+              "a": 1,
+              "rgb": 9571340
+            }
+          },
+          {
+            "query": "file:\"das \"",
+            "color": {
+              "a": 1,
+              "rgb": 483079
+            }
+          },
+          {
+            "query": "file:\"der \"",
+            "color": {
+              "a": 1,
+              "rgb": 591584
+            }
+          }
+        ],
+        "collapse-display": false,
+        "showArrow": false,
+        "textFadeMultiplier": -3,
+        "nodeSizeMultiplier": 0.7890625,
+        "lineSizeMultiplier": 0.686979166666667,
+        "collapse-forces": false,
+        "centerStrength": 0.354166666666667,
+        "repelStrength": 8.95833333333333,
+        "linkStrength": 1,
+        "linkDistance": 189,
+        "scale": 2.5360905337686996,
+        "close": false
+      }
+    },
+    {
+      "type": "graph",
+      "ctime": 1745223493358,
+      "title": "das",
+      "options": {
+        "collapse-filter": false,
+        "search": "path:Wörter  file:\"das \"",
+        "showTags": false,
+        "showAttachments": false,
+        "hideUnresolved": false,
+        "showOrphans": true,
+        "collapse-color-groups": false,
+        "colorGroups": [
+          {
+            "query": "tag:#reg",
+            "color": {
+              "a": 1,
+              "rgb": 6601285
+            }
+          },
+          {
+            "query": "tag:#unreg",
+            "color": {
+              "a": 1,
+              "rgb": 14966366
+            }
+          },
+          {
+            "query": "file:\"die \"",
+            "color": {
+              "a": 1,
+              "rgb": 9571340
+            }
+          },
+          {
+            "query": "file:\"das \"",
+            "color": {
+              "a": 1,
+              "rgb": 483079
+            }
+          },
+          {
+            "query": "file:\"der \"",
+            "color": {
+              "a": 1,
+              "rgb": 591584
+            }
+          }
+        ],
+        "collapse-display": false,
+        "showArrow": false,
+        "textFadeMultiplier": -3,
+        "nodeSizeMultiplier": 0.7890625,
+        "lineSizeMultiplier": 0.686979166666667,
+        "collapse-forces": false,
+        "centerStrength": 0.354166666666667,
+        "repelStrength": 8.95833333333333,
+        "linkStrength": 1,
+        "linkDistance": 189,
+        "scale": 2.5360905337686996,
+        "close": false
+      }
+    },
+    {
+      "type": "graph",
+      "ctime": 1745223510494,
+      "title": "der",
+      "options": {
+        "collapse-filter": false,
+        "search": "path:Wörter  file:\"der \"",
+        "showTags": false,
+        "showAttachments": false,
+        "hideUnresolved": false,
+        "showOrphans": true,
+        "collapse-color-groups": false,
+        "colorGroups": [
+          {
+            "query": "tag:#reg",
+            "color": {
+              "a": 1,
+              "rgb": 6601285
+            }
+          },
+          {
+            "query": "tag:#unreg",
+            "color": {
+              "a": 1,
+              "rgb": 14966366
+            }
+          },
+          {
+            "query": "file:\"die \"",
+            "color": {
+              "a": 1,
+              "rgb": 9571340
+            }
+          },
+          {
+            "query": "file:\"das \"",
+            "color": {
+              "a": 1,
+              "rgb": 483079
+            }
+          },
+          {
+            "query": "file:\"der \"",
+            "color": {
+              "a": 1,
+              "rgb": 591584
+            }
+          }
+        ],
+        "collapse-display": false,
+        "showArrow": false,
+        "textFadeMultiplier": -3,
+        "nodeSizeMultiplier": 0.7890625,
+        "lineSizeMultiplier": 0.686979166666667,
+        "collapse-forces": false,
+        "centerStrength": 0.354166666666667,
+        "repelStrength": 8.95833333333333,
+        "linkStrength": 1,
+        "linkDistance": 189,
+        "scale": 2.5360905337686996,
         "close": false
       }
     }
