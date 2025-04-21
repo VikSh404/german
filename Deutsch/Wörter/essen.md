@@ -1,4 +1,4 @@
-aß , hat gegessen
+aß, hat gegessen
 du - isst
 sie - **isst**
 

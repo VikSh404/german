@@ -14,6 +14,7 @@
 |                |             |
 [[gestern]]
 [[heute]]
+[[übermorgen]]
 # Beispiele
 - **Ich schreibe dir morgen.**  
     (Я напишу тебе **завтра**.)

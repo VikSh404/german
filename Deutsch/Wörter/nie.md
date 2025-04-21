@@ -2,14 +2,8 @@
 # Synonyme
 
 # Verbindung 
-[[fast immer]]
-[[fast]]
-[[selten]]
-[[manchmal]]
-[[fast nie]]
 [[immer]]
-[[nie]]
-[[oft]]
+[[fast nie]]
 # Beispiele
 🔹 **Ich rauche nie.**  
 (Я **никогда** не курю.)

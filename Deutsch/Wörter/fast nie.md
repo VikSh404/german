@@ -1,6 +1,6 @@
 #adverb
 # Synonyme
-
+[[fast nie]]
 # Verbindung 
 
 # Beispiele
