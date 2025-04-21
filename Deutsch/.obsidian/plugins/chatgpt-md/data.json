@@ -1,0 +1,16 @@
+{
+  "apiKey": "",
+  "openrouterApiKey": "",
+  "openaiUrl": "https://api.openai.com",
+  "openrouterUrl": "https://openrouter.ai",
+  "ollamaUrl": "http://localhost:11434",
+  "chatFolder": "ChatGPT_MD/chats",
+  "chatTemplateFolder": "ChatGPT_MD/templates",
+  "stream": true,
+  "generateAtCursor": false,
+  "autoInferTitle": false,
+  "dateFormat": "YYYYMMDDhhmmss",
+  "headingLevel": 3,
+  "inferTitleLanguage": "English",
+  "defaultChatFrontmatter": "---\nsystem_commands: ['I am a helpful assistant.']\nfrequency_penalty: 0\nmax_tokens: 300\nmodel: gpt-4o-mini\nn: 1\npresence_penalty: 0\nstop: null\nstream: true\ntemperature: 1\n---"
+}
