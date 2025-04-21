@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "cdd75dc1fd277521",
+        "id": "80294c81f2153df0",
         "type": "tabs",
         "children": [
           {
-            "id": "b012cd30664c36ea",
+            "id": "4f025f31a7b9fa75",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/schneiden.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "schneiden"
+              "title": "New tab"
             }
           }
         ]
@@ -53,10 +49,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "immer",
+                "query": "schlaf",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -182,10 +178,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b012cd30664c36ea",
+  "active": "625b194828898346",
   "lastOpenFiles": [
-    "Unregelmäßige Verben.md",
+    "Wörter/der Schrank.md",
+    "Wörter/das Schlafzimmer.md",
+    "Wörter/das Kissen.md",
+    "Wörter/das Hobby.md",
+    "Wörter/das Geld.md",
+    "Wörter/das Lied.md",
+    "Wörter/das Bett.md",
+    "Neue.md",
     "die Statistik.md",
+    "die Steckdose.md",
+    "Wörter/schneiden.md",
+    "Unregelmäßige Verben.md",
     "Wörter/duschen.md",
     "Regelmäßige Verben.md",
     "Wörter/essen.md",
@@ -200,16 +206,6 @@
     "Wörter/nie.md",
     "Wörter/gestern.md",
     "Wörter/selten.md",
-    "Wörter/eigentlich.md",
-    "Wörter/der Empfang.md",
-    "Wörter/die Mahlzeit.md",
-    "Wörter/das Gericht.md",
-    "Wörter/übrig.md",
-    "Gramatik/B2 Hier ist einer! Ich brauche keinen..md",
-    "Wörter/brauchen.md",
-    "Wörter/ausmachen.md",
-    "Wörter/alles.md",
-    "Wörter/abfahren.md",
     "Youtube",
     "Gramatik",
     "Untitled.canvas",
