@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1e47462ecde38e3f",
+        "id": "15b0bf2a0b8398a4",
         "type": "tabs",
         "children": [
           {
-            "id": "f6eb726ce5176d95",
+            "id": "320fc8060ad852ea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/setzen.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "setzen"
+              "title": "New tab"
             }
           }
         ]
@@ -92,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 200
   },
   "right": {
     "id": "962833e17259279c",
@@ -182,34 +178,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f6eb726ce5176d95",
+  "active": "320fc8060ad852ea",
   "lastOpenFiles": [
-    "Wörter/sitzen.md",
-    "Wörter/setzen.md",
-    "Wörter/stehen.md",
-    "Wörter/riechen.md",
-    "Wörter/legen.md",
-    "Wörter/liegen.md",
-    "Wörter/fliegen.md",
-    "Wörter/bieten.md",
-    "Wörter/bitten.md",
-    "Wörter/abbiegen.md",
-    "Wörter/alles.md",
-    "Wörter/abholen.md",
-    "Wörter/alle.md",
+    "Wörter/passieren.md",
+    "Scripts/leere Wörter.md",
+    "Wörter/helfen.md",
+    "Wörter/wissen.md",
+    "Wörter/erstellen.md",
+    "Wörter/erfahren.md",
+    "Wörter/bleiben.md",
+    "Wörter/d.md",
+    "Wörter/bekommen.md",
+    "Wörter/beginnen.md",
+    "Wörter/Untitled.md",
     "Wörter/aufstehen.md",
+    "Wörter/anrufen.md",
+    "Wörter/behalten.md",
+    "Wörter/aufschreiben.md",
+    "Wörter/arbeiten.md",
+    "Wörter/abfahren.md",
+    "Wörter/abheben.md",
+    "Wörter/abbiegen.md",
+    "Untitled.md",
     "Wörter/Untitled 6.md",
     "Wörter/Untitled 5.md",
     "Wörter/Untitled 4.md",
     "Wörter/Untitled 3.md",
     "Wörter/Untitled 1.md",
-    "Wörter/wissen.md",
-    "Wörter/anrufen.md",
-    "Wörter/verlieren.md",
-    "Wörter/passieren.md",
-    "Wörter/bekommen.md",
-    "Wörter/helfen.md",
-    "Wörter/abheben.md",
+    "Scripts/Regelmäßige Verben.md",
     "Scripts",
     "ChatGPT_MD",
     "Youtube",
