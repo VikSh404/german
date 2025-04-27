@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:Wörter  ",
+  "search": "path:Wörter/ ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -53,6 +53,6 @@
   "repelStrength": 8.95833333333333,
   "linkStrength": 1,
   "linkDistance": 189,
-  "scale": 1.564309451464864,
+  "scale": 1.1157835476782738,
   "close": false
 }

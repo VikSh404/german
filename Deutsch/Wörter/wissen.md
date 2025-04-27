@@ -24,3 +24,4 @@ wusste – hat gewusst
 🔹 **Ich weiß viel über das Thema.**  
 (Я много знаю об этой теме.)
 # Übersetzung
+знать

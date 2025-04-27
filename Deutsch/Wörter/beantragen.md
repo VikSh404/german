@@ -20,3 +20,4 @@
 - **Wann hast du deinen Pass beantragt?**  
     (Когда ты подал заявление на паспорт?)
 # Übersetzung
+подать заявление

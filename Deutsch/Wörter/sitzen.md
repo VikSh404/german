@@ -13,7 +13,6 @@ sie - sitzt
 # Verbindung 
 [[setzen]]
 
-
 # Beispiele
 - **Du sitzt auf dem Stuhl und wartest.**  
     Ты сидишь на стуле и ждёшь.
@@ -21,3 +20,4 @@ sie - sitzt
 - **Sie sitzt im Café und trinkt Kaffee.**  
     Она сидит в кафе и пьёт кофе.
 # Übersetzung
+сидеть

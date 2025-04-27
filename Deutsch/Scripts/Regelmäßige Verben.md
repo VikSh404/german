@@ -20,14 +20,19 @@ Verben:
         continue;
       }
 
+      const content = await app.vault.read(file);
+      const lines = content.split(/\r?\n/);
+      const firstLine = lines.find(line => line.trim() !== "") || "(пусто)";
+      const lastLine = lines[lines.length - 1] || "(пусто)";
+
       rows.push([
         p.file.link,
+        lastLine,
         new Date(p.file.ctime).toLocaleDateString()
-        
       ]);
     }
 
-    dv.table(["📄 Wort", "🕒 Erstellt"], rows);
+    dv.table(["📄 Wort", "📝 Übersetzung" , "🕒 Erstellt"], rows);
   } catch (e) {
     dv.paragraph(`❌ Ошибка: ${e.message}`);
     console.error(e);

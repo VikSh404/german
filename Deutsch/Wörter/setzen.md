@@ -8,13 +8,17 @@
 # Synonyme
 
 # Verbindung 
-[[sitzen]]
-[[der Stuhl]]
+[[das Kind]]  
+[[den Stuhl]]  
+[[den Tisch]]
 # Beispiele
-- **Du setzt das Kind auf den Stuhl.**  
-    Ты сажаешь ребёнка на стул.
-    
-- **Sie setzt die Tasche neben sich.**  
-    Она ставит сумку рядом с собой.
+🔹 **Du setzt das Kind auf den Stuhl.**  
+(Ты сажаешь ребёнка на стул.)
+
+🔹 **Sie setzt das Kind an den Tisch.**  
+(Она сажает ребёнка к столу.)
+
+🔹 **Ich setze das Kind vorsichtig auf den Hochstuhl.**  
+(Я аккуратно сажаю ребёнка на высокий стульчик.)
 # Übersetzung
-сажать / посадить
+сажать (кого-то куда-то)
