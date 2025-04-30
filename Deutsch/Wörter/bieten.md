@@ -1,4 +1,4 @@
-bot, hat geboten
+b<span style="color:red">o</span>t, hat geb<span style="color:red">o</span>ten
 du - bietest
 sie - bietet
 

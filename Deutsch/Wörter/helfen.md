@@ -1,4 +1,4 @@
-half, hat geholfen
+h<span style="color:red">a</span>lf, hat geh<span style="color:red">o</span>lfen
 du - hilfst
 sie - hilft
 

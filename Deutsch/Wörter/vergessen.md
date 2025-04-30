@@ -1,4 +1,4 @@
-vergaß – hat vergessen
+verg<span style="color:red">aß</span>, hat vergessen
 **du** – vergisst  
 **sie** – vergisst
 

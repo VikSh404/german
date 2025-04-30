@@ -1,4 +1,4 @@
-**verlor – hat verloren**  
+verl<span style="color:red">o</span>r, hat verl<span style="color:red">o</span>ren
 **du** – verlierst  
 **sie** – verliert
 

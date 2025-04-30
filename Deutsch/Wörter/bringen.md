@@ -1,4 +1,4 @@
-brachte, hat gebracht
+br<span style="color:red">a</span>chte, hat gebr<span style="color:red">a</span>ch<span style="color:red">t</span>
 du - bringst
 sie - bringt
 

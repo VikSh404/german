@@ -1,4 +1,4 @@
-rief an – hat angerufen
+r<span style="color:red">ie</span>f an, hat angerufen
 du - rufst an
 sie - ruft an
 

@@ -1,4 +1,4 @@
-schnitt, hat geschnitten
+schn<span style="color:red">itt</span>, hat geschn<span style="color:red">itt</span>en
 du - schneidest
 sie - schneidet
 

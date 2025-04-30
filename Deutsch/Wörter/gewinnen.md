@@ -1,4 +1,4 @@
-gewann, hat gewonnen
+gew<span style="color:red">a</span>nn, hat gew<span style="color:red">o</span>nnen
 du - gewinnst
 sie - gewinnt
 

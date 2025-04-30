@@ -1,4 +1,4 @@
-las, hat gelesen
+l<span style="color:red">a</span>s, hat gelesen
 Präteritum, Perfekt
 du - liest  -- Du **liest** sehr schnell.
 sie - liest -- 	Sie liest ein Märchen.

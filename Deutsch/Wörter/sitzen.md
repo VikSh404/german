@@ -1,4 +1,4 @@
-saß, hat gesessen
+s<span style="color:red">aß</span>, hat ges<span style="color:red">ess</span>en
 du - sitzt
 sie - sitzt
 

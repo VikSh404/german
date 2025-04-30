@@ -1,4 +1,4 @@
-stand – hat gestanden
+st<span style="color:red">a</span>nd, hat gest<span style="color:red">a</span>nden
 du - stehst
 sie - steht
 

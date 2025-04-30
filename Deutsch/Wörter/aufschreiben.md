@@ -1,4 +1,4 @@
-schrieb auf - hat aufgeschrieben
+schr<span style="color:red">ie</span>b auf, hat aufgeschr<span style="color:red">ie</span>ben
 du - schreibst auf
 sie - schreibt auf
 

@@ -1,4 +1,4 @@
-traf, hat getroffen
+tr<span style="color:red">a</span>f, hat getr<span style="color:red">o</span>ffen
 du - triffst
 sie - trifft 
 

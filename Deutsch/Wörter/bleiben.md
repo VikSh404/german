@@ -1,9 +1,6 @@
-blieb – ist geblieben
+bl<span style="color:red">ie</span>b, ist gebl<span style="color:red">ie</span>ben
 du – bleibst
 sie – bleibt
-Präteritum, Perfekt
-du - xxxx
-sie - xxxx
 
 ⛔ **in + Dativ**, **bei + Dativ**, **zu Hause** _(без предлога)_  
 #unreg

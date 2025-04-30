@@ -1,4 +1,4 @@
-lief – ist gelaufen
+l<span style="color:red">ie</span>f, ist gelaufen
 du – läufst
 sie – läuft
 

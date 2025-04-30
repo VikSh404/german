@@ -1,4 +1,4 @@
-bekam, hat bekommen
+bek<span style="color:red">a</span>m, hat bekommen
 du - bekommst
 sie - bekommt
 

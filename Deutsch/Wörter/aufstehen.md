@@ -1,4 +1,4 @@
-stand auf, ist aufgestanden
+st<span style="color:red">a</span>nd auf, ist aufgest<span style="color:red">a</span>nden
 du - stehst auf
 sie - steht auf
 

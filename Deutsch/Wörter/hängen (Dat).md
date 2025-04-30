@@ -1,4 +1,4 @@
-hing, hat gehangen
+h<span style="color:red">i</span>ng, hat geh<span style="color:red">a</span>ngen
 +Dat
 #unreg 
 1️ слабым (правильным) – когда что-то вешают (Akkusativ)

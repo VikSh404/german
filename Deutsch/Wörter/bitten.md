@@ -1,4 +1,4 @@
-bat, hat gebeten
+b<span style="color:red">a</span>t, hat geb<span style="color:red">e</span>ten
 du - bittest
 sie - bittet
 

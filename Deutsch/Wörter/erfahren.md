@@ -1,4 +1,4 @@
-Präteritum, Perfekt
+erf<span style="color:red">u</span>hr, hat erfahren
 du - erfährst
 sie - erfährt
 

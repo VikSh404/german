@@ -1,7 +1,10 @@
+f<span style="color:red">u</span>hr ab, ist abgefahren
 fuhr ab, ist abgefahren
+du - f<span style="color:red">ä</span>hrst ab
+sie - f<span style="color:red">ä</span>hrt ab
+
 du - fährst ab
 sie - fährt ab
-
 #unreg
 # Synonyme
 

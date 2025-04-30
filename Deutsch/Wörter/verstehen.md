@@ -1,4 +1,4 @@
-**verstand – hat verstanden**  
+verst<span style="color:red">a</span>nd, hat verst<span style="color:red">a</span>nden
 **du** – verstehst  
 **sie** – versteht
 

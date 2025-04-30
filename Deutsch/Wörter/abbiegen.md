@@ -1,3 +1,4 @@
+b<span style="color:red">o</span>g ab, ist abgeb<span style="color:red">o</span>gen  
 bog ab, ist abgebogen  
 du – biegst ab  
 sie – biegt ab

@@ -1,6 +1,6 @@
-hob ab, hat abgehoben
-du - hebst ab
-sie - hebt ab
+h<span style="color:red">o</span>b ab, hat abgeh<span style="color:red">o</span>ben
+du - h<span style="color:red">e</span>bst ab
+sie - h<span style="color:red">e</span>bt ab
 
 #unreg
 - 📍 Дата: 2025-04-21

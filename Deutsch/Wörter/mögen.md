@@ -1,4 +1,4 @@
-mochte – hat gemocht
+m<span style="color:red">o</span>chte, hat gem<span style="color:red">o</span>ch<span style="color:red">t</span>
 **du** – magst  
 **sie** – mag
 

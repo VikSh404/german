@@ -1,4 +1,4 @@
-wusste – hat gewusst
+w<span style="color:red">u</span>sste, hat gew<span style="color:red">u</span>ss<span style="color:red">t</span>
 **du** – weißt  
 **sie** – weiß
 

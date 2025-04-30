@@ -1,4 +1,4 @@
-roch, hat gerochen
+r<span style="color:red">o</span>ch, hat ger<span style="color:red">o</span>chen
 du - riechst
 sie - riecht
 

@@ -1,4 +1,4 @@
-**verglich – hat verglichen**  
+vergl<span style="color:red">i</span>ch, hat vergl<span style="color:red">i</span>chen
 **du** – vergleichst  
 **sie** – vergleicht
 

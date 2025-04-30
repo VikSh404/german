@@ -1,4 +1,4 @@
-sprach, hat gesprochen
+spr<span style="color:red">a</span>ch, hat gespr<span style="color:red">o</span>chen
 du - sprichst
 sie - spricht
 

@@ -1,4 +1,4 @@
-aß, hat gegessen
+a<span style="color:red">ß</span>, hat ge<span style="color:red">g</span>essen
 du - isst
 sie - **isst**
 

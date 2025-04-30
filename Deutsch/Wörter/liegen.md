@@ -1,4 +1,4 @@
-lag, hat gelegen
+l<span style="color:red">a</span>g, hat gel<span style="color:red">e</span>gen
 du - liegst
 sie - liegt
 

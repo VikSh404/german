@@ -1,4 +1,4 @@
-schlief, hat geschlafen
+schl<span style="color:red">ie</span>f, hat geschlafen
 du - schläfst
 sie - schläft
 

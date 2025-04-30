@@ -1,4 +1,4 @@
-flog, ist geflogen
+fl<span style="color:red">o</span>g, ist gefl<span style="color:red">o</span>gen
 du - fliegst
 sie - fliegt
 

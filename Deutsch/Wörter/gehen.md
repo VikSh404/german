@@ -1,4 +1,4 @@
-ging, ist gegangen
+g<span style="color:red">ing</span>, ist geg<span style="color:red">ang</span>en
 **du** – gehst  
 **sie** – geht
 

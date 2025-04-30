@@ -1,4 +1,4 @@
-ließ, hat gelassen
+l<span style="color:red">ieß</span>, hat gelassen
 du - lässt
 sie - lässt
 

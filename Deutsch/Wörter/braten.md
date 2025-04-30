@@ -1,4 +1,4 @@
-briet, hat gebraten
+br<span style="color:red">ie</span>t, hat gebraten
 du - brätst
 sie - brät
 

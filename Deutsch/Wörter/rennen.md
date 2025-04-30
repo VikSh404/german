@@ -1,4 +1,4 @@
-rannte – ist gerannt
+r<span style="color:red">a</span>nnte, ist ger<span style="color:red">a</span>nn<span style="color:red">t</span>
 du - rennst
 sie - rennt
 

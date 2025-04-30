@@ -1,4 +1,4 @@
-schrieb – hat geschrieben
+schr<span style="color:red">ie</span>b, hat geschrieben
 **du** – schreibst  
 **sie** – schreibt
 

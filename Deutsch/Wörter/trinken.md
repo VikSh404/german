@@ -1,4 +1,4 @@
-**trank – hat getrunken**  
+tr<span style="color:red">a</span>nk, hat getr<span style="color:red">u</span>nken
 **du** – trinkst  
 **sie** – trinkt
 

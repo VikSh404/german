@@ -1,4 +1,4 @@
-brachte mit, mitgebracht
+br<span style="color:red">a</span>chte mit, mitgebr<span style="color:red">a</span>ch<span style="color:red">t</span>
 du - bringst mit
 sie - bringt mit
 

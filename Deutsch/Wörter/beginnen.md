@@ -1,4 +1,4 @@
-begann – hat begonnen
+beg<span style="color:red">a</span>nn, hat beg<span style="color:red">o</span>nnen
 du - beginnst
 sie - beginnt
 

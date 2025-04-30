@@ -1,4 +1,4 @@
-fuhr, ist gefahren
+f<span style="color:red">u</span>hr, ist gefahren
 du - fährst
 sie - fährt
 
