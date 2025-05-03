@@ -1,9 +1,10 @@
--
+kein Plural
 #nomen
 # Synonyme
 [[das Geld]]
 # Verbindung 
-
+[[der Kellner]]
+[[die Kellnerin]]
 # Beispiele
 1. **Gibt man in Deutschland Trinkgeld?**  
     — В Германии принято давать чаевые?

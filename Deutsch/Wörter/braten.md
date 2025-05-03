@@ -7,7 +7,8 @@ sie - brät
 
 # Verbindung 
 [[der Braten]]
-
+[[gebraten]]
+[[brennen]]
 # Beispiele
 1. **Ich brate das Fleisch in der Pfanne.**  
     — Я жарю мясо на сковороде.

@@ -4,9 +4,9 @@
 # Synonyme
 
 # Verbindung 
-[[den Mann]]  
+[[der Mann]]  
 [[die Frau]]  
-[[den Partner]]
+[[der Partner]]
 # Beispiele
 🔹 **Du heiratest deine Jugendliebe.**  
 (Ты женишься на своей первой любви.)

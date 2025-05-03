@@ -10,7 +10,7 @@ m<span style="color:red">o</span>chte, hat gem<span style="color:red">o</span>ch
 # Verbindung 
 [[das Essen]]  
 [[die Musik]]  
-[[den Film]]
+[[der Film]]
 # Beispiele
 🔹 **Du magst das Essen im Restaurant.**  
 (Тебе нравится еда в ресторане.)

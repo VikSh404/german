@@ -9,7 +9,7 @@ tr<span style="color:red">a</span>nk, hat getr<span style="color:red">u</span>nk
 
 # Verbindung 
 [[das Wasser]]  
-[[den Saft]]  
+[[der Saft]]  
 [[das Getränk]]
 # Beispiele
 🔹 **Du trinkst ein Glas Wasser.**  

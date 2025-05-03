@@ -4,9 +4,10 @@
 # Synonyme
 
 # Verbindung 
-[[den Stuhl]]  
+[[der Stuhl]]  
 [[die Lampe]]  
 [[das Glas]]
+[[stehen]]
 # Beispiele
 🔹 **Du stellst den Stuhl an die Wand.**  
 (Ты ставишь стул к стене.)

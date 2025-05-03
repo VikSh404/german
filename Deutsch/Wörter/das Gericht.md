@@ -1,5 +1,7 @@
 die Gerichte
 #nomen
+
+#hart
 # Synonyme
 
 # Verbindung 

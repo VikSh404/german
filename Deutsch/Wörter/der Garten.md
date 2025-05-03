@@ -1,4 +1,4 @@
-
+die Gärten
 #nomen
 - 📍 Дата: 2025-04-21
 - ⏰ Время создания: 15:54
@@ -6,17 +6,17 @@
 
 # Verbindung 
 [[die Wohnung]]
+[[die Blume]]  
+[[der Baum]]  
+[[der Zaun]]
 # Beispiele
-- **Der Garten ist groß und grün.**  
-    (Сад большой и зелёный.)
-    
-- **Meine Großeltern haben einen schönen Garten.**  
-    (У моих бабушки и дедушки красивый сад.)
-    
-- **Im Garten wachsen viele Blumen und Gemüse.**  
-    (В саду растёт много цветов и овощей.)
-    
-- **Die Kinder spielen im Garten.**  
-    (Дети играют в саду.)
+🔹 **Du arbeitest gern im Garten.**  
+(Ты любишь работать в саду.)
+
+🔹 **Sie pflanzt Blumen im Garten.**  
+(Она сажает цветы в саду.)
+
+🔹 **Ich sitze oft im Garten und lese.**  
+(Я часто сижу в саду и читаю.)
 # Übersetzung
 сад

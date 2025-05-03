@@ -8,7 +8,7 @@ verl<span style="color:red">o</span>r, hat verl<span style="color:red">o</span>r
 # Synonyme
 
 # Verbindung 
-[[den Schlüssel]]  
+[[der Schlüssel]]  
 [[das Geld]]  
 # Beispiele
 🔹 **Du verlierst deinen Schlüssel.**  

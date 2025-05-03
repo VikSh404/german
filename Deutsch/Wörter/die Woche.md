@@ -3,7 +3,13 @@ die Wochen
 # Synonyme
 
 # Verbindung 
-
+[[der Montag]]
+[[der Dienstag]]
+[[der Mittwoch]]
+[[der Donnerstag]]
+[[der Freitag]]
+[[der Samstag]]
+[[der Sonntag]]
 # Beispiele
 🔹 **Ich arbeite fünf Tage in der Woche.**  
 (Я работаю пять дней в неделю.)

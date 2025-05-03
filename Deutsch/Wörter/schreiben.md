@@ -1,4 +1,4 @@
-schr<span style="color:red">ie</span>b, hat geschrieben
+schr<span style="color:red">ie</span>b, hat geschr<span style="color:red">ie</span>ben
 **du** – schreibst  
 **sie** – schreibt
 

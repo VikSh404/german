@@ -1,3 +1,4 @@
+kein Plural
 #nomen
 # Synonyme
 

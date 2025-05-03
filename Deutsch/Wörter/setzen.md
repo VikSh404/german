@@ -9,8 +9,8 @@
 
 # Verbindung 
 [[das Kind]]  
-[[den Stuhl]]  
-[[den Tisch]]
+[[der Stuhl]]  
+[[der Tisch]]
 # Beispiele
 🔹 **Du setzt das Kind auf den Stuhl.**  
 (Ты сажаешь ребёнка на стул.)

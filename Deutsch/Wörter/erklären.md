@@ -6,7 +6,7 @@
 # Verbindung 
 [[die Regel]]  
 [[das Problem]]  
-[[den Sachverhalt]]
+[[der Sachverhalt]]
 # Beispiele
 🔹 **Du erklärst die Regel sehr klar.**  
 (Ты очень понятно объясняешь правило.)

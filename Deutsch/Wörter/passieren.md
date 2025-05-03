@@ -1,4 +1,4 @@
-passierte, ist passiert
+passierte, ist passier<span style="color:red">t</span>
 du - passierst
 sie - passiert
 

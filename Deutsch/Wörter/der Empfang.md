@@ -3,6 +3,8 @@ die Empfänge
 #nomen
 - 📍 Дата: 2025-04-20
 - ⏰ Время создания: 14:10
+
+#hart 
 # Synonyme
 [[das Krankenhaus]]
 [[das Hotel]]

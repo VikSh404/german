@@ -6,7 +6,7 @@ besuchen + Akkusativ
 # Synonyme
 
 # Verbindung 
-[[den Freund]]  
+[[der Freund]]  
 [[die Großeltern]]  
 [[das Museum]]
 # Beispiele

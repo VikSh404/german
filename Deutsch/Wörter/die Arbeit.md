@@ -1,4 +1,4 @@
-
+die Arbeiten
 #nomen
 - 📍 Дата: 2025-04-20
 - ⏰ Время создания: 13:41
@@ -6,6 +6,9 @@
 
 # Verbindung 
 [[arbeiten]]
+[[der Job]]  
+[[das Büro]]  
+[[die Aufgabe]]
 # Beispiele
 - **Ich habe heute viel Arbeit.**  
     (У меня сегодня много работы.)

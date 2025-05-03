@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "1ac7d607592f2cf0",
+        "id": "bd932a72979eff16",
         "type": "tabs",
         "children": [
           {
-            "id": "e3e89a94981138a2",
+            "id": "d8346be91ce61571",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scripts/Unregelmäßige Verben.md",
+                "file": "Gramatik/B2 Hier ist einer! Ich brauche keinen..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unregelmäßige Verben"
+              "title": "B2 Hier ist einer! Ich brauche keinen."
+            }
+          },
+          {
+            "id": "d039232a985a40f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/die Schwester.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "die Schwester"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": " Vater",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,11 +103,12 @@
               "title": "die Straße"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 294.5
   },
   "right": {
     "id": "962833e17259279c",
@@ -183,34 +199,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e3e89a94981138a2",
+  "active": "d039232a985a40f2",
   "lastOpenFiles": [
-    "Scripts/Regelmäßige Verben.md",
-    "Scripts/Unregelmäßige Verben.md",
-    "__templates__/__Regelmäßige Verb__.md",
-    "__templates__/__Rot__.md",
-    "__templates__/__Unregelmäßige Verb__.md",
-    "Gramatik/B2 Hier ist einer! Ich brauche keinen..md",
-    "Scripts/die Statistik.md",
-    "Scripts/leere Wörter.md",
-    "Wörter/abbiegen.md",
-    "Wörter/abfahren.md",
-    "Wörter/mögen.md",
-    "Wörter/wissen.md",
-    "Wörter/mitbringen.md",
-    "Wörter/bringen.md",
+    "Wörter/der Mittwoch.md",
+    "Wörter/stellen.md",
     "Wörter/verlieren.md",
-    "Wörter/vergessen.md",
-    "Wörter/trinken.md",
-    "Wörter/verstehen.md",
-    "Wörter/vergleichen.md",
-    "Wörter/rufen.md",
-    "Wörter/schreiben.md",
     "Wörter/stehen.md",
-    "Wörter/rennen.md",
-    "Wörter/laufen.md",
-    "Wörter/sitzen.md",
-    "Wörter/sprechen.md",
+    "Wörter/setzen.md",
+    "Wörter/heiraten.md",
+    "Wörter/erklären.md",
+    "Wörter/besuchen.md",
+    "Gramatik/B2 Hier ist einer! Ich brauche keinen..md",
+    "Wörter/den Sachverhalt.md",
+    "Wörter/den Partner.md",
+    "Wörter/den Freund.md",
+    "Wörter/der Tisch.md",
+    "Wörter/den Mann.md",
+    "Wörter/die Süße.md",
+    "Wörter/der Saft.md",
+    "Scripts/Zu erstellen.md",
+    "Scripts/Unregelmäßige Verben.md",
+    "Wörter/das Getränk.md",
+    "Wörter/das Gericht.md",
+    "Wörter/die Wohnung.md",
+    "Wörter/der Freitag.md",
+    "Wörter/der Samstag.md",
+    "Wörter/der Montag.md",
+    "Wörter/die Woche.md",
+    "Wörter/der Dienstag.md",
     "Untitled.canvas",
     "Scripts",
     "ChatGPT_MD",

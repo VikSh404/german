@@ -5,6 +5,7 @@
 
 # Verbindung 
 [[schlafen]]
+[[aufwachen]]
 # Beispiele
 1. **Ich bin noch nicht richtig wach.**  
     — Я ещё не совсем проснулся.

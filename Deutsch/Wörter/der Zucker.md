@@ -1,8 +1,12 @@
+kein Plural
 #nomen
 # Synonyme
 
 # Verbindung 
 [[süß]]
+[[der Kaffee]]  
+[[der Tee]]  
+[[der Kuchen]]
 # Beispiele
 - **Der Zucker ist im Schrank.**  
     — Сахар в шкафу.

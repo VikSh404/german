@@ -8,7 +8,7 @@ die Schwestern
 # Verbindung 
 [[die Familie]]
 [[die Mutter]]
-[[die Vater]]
+[[der Vater]]
 [[der Bruder]]
 # Beispiele
 - **Meine Schwester heißt Anna.**  

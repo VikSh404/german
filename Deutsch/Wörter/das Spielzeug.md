@@ -6,6 +6,9 @@ die Spielzeuge
 # Synonyme
 
 # Verbindung 
+[[das Kind]]
+[[das Spiel]]
+[[die Puppe]]
 
 # Beispiele
 - **Das Kind spielt mit seinem Spielzeug.**  

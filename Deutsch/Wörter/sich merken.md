@@ -11,7 +11,7 @@
 # Synonyme
 
 # Verbindung 
-
+[[sich erinnern]]
 # Beispiele
 🔹 **Ich kann mir die Wörter nicht merken.**  
 (Я не могу запомнить эти слова.)

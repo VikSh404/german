@@ -7,6 +7,8 @@ die Getränke
 # Verbindung 
 [[trinken]]
 [[essen]]
+[[der Tee]]
+
 # Beispiele
 🔹 **Du bestellst ein kaltes Getränk im Restaurant.**  
 (Ты заказываешь холодный напиток в ресторане.)
